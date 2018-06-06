@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/3/28 星期二 00:09:51 输犹赢动。
+     1>项目“D:\CPP_case\VS2013\华为oj\001wordGame\001wordGame\001wordGame.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 001wordGame.cpp
+         001wordGame.cpp
+     1>d:\cpp_case\vs2013\华为oj\001wordgame\001wordgame\001wordgame.cpp(125): warning C4804: “~”: 在操作中使用类型“bool”不安全
+     1>d:\cpp_case\vs2013\华为oj\001wordgame\001wordgame\001wordgame.cpp(125): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>d:\cpp_case\vs2013\华为oj\001wordgame\001wordgame\001wordgame.cpp(133): error C2117: “ch”: 数组界限溢出
+                 d:\cpp_case\vs2013\华为oj\001wordgame\001wordgame\001wordgame.cpp(133) : 参见“ch”的声明
+                 d:\cpp_case\vs2013\华为oj\001wordgame\001wordgame\001wordgame.cpp(133) : 参见“ch”的声明
+     1>已完成生成项目“D:\CPP_case\VS2013\华为oj\001wordGame\001wordGame\001wordGame.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.51
